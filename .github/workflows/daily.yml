@@ -1,4 +1,5 @@
 # workflow registered by setup
+# refreshed schedule registration 2026-11-24
 name: Buddy 加油站每日自动化
 
 on:
